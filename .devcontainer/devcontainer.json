@@ -17,7 +17,8 @@
 				"ms-python.black-formatter",
 				"ms-python.python",
 				"ms-toolsai.jupyter",
-				"yzhang.markdown-all-in-one"
+				"yzhang.markdown-all-in-one",
+				"donjayamanne.vscode-default-python-kernel"
 			]
 		}
 	},

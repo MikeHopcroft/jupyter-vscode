@@ -23,6 +23,7 @@
 		}
 	},
 	// Use 'postCreateCommand' to run commands after the container is created.
+	"updateContentCommand": "bash .devcontainer/update-content.sh",
 	"postCreateCommand": "bash .devcontainer/post-create.sh"
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.

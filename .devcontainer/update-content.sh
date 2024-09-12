@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-pip install --user pipx
+pip install pipx
 pipx install poetry==1.8.3
